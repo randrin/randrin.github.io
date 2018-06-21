@@ -1,0 +1,14 @@
+**********************************************************
+*							 *
+*    	Version V1.0.2 - Date de création 18/07/2017	 *
+*							 *
+* 		Realisé Par Randrin Nzeukang   		 *
+* 							 *
+**********************************************************
+
+De la version V1.0.1, les modifications apportées sont :
+
+1) Envoyer un message en cliquant sur "nzeukangrandrin@gmail.com"
+
+2) Règlage des styles (gras, ajout des compétences, badges, ...)
+
