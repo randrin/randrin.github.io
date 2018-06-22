@@ -52,7 +52,7 @@ $(function(){
 
     console.log($(window).width());
     <!-- START: section Project Small Device -->
-    if ($(window).width() < 1348 && $(window).width() > 782) {
+    if ($(window).width() <= 1349 && $(window).width() >= 783) {
         $("#projectSmall").show();
         $("#project").hide();
     } else {
