@@ -9,3 +9,5 @@ It is made with different technologies:
 - BOOTSTRAP 4
 - ANGULAR JS
 - PHP 5
+
+Visit the online page here : https://randrin.github.io/en/randrinnzeukang.html
