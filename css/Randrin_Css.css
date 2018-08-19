@@ -1806,6 +1806,9 @@ ul.social-network li {
 .social-network a.github:hover {
 	background-color:black;
 }
+.social-network a.bitbucket:hover {
+	background-color:dodgerblue;
+}
 .social-network a.twitter:hover {
 	background-color:#33ccff;
 }
@@ -1822,7 +1825,7 @@ ul.social-network li {
 	background-color:#ff99cc;
 }
 
-.social-network a.facebook:hover i, .social-network a.github:hover i, .social-network a.twitter:hover i, .social-network a.google:hover i,
+.social-network a.facebook:hover i, .social-network a.github:hover i, .social-network a.bitbucket:hover i, .social-network a.twitter:hover i, .social-network a.google:hover i,
 .social-network a.youtube:hover i, .social-network a.linkedin:hover i, .social-network a.instagram:hover i {
 	color:#fff;
 }
