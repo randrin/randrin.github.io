@@ -1721,7 +1721,9 @@ a[rel="popover"]{
 
 .languageAlign li img,  .languageAlign img {
 	margin-right: 10px;
-    margin-top: -7px;
+	margin-top: -7px;
+	width: 20px;
+	height: 20px;
 }
 
 .languageAlignSmall img {
@@ -2061,4 +2063,13 @@ ul.social-network li {
 
 ul.dropdown-menu > li {
     cursor: pointer;
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: #636660;
+	border-radius: 20px;
+}
+
+::-webkit-scrollbar {
+	width: 10px;
 }
