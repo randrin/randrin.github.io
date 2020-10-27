@@ -83,7 +83,7 @@ $(function(){
     <!-- START: Open Modal-Header Style Customization ->
     $(".modal-header").css({"background-color": "#000000", "opacity": "0.5"});
     $(".modal-title span, .modal-title i").css("padding-top", "15px");
-    $(".modal-title").append("<img id='theImg' src='../img/Logos/LogoBis.png' width='10%' style='float: left;'/>");
+    $(".modal-title").append("<img id='theImg' src='../img/Logos/Logo_New.png' width='8%' style='float: left;'/>");
     <!-- END: Open Modal-Header Style Customization ->
         
     <!-- START: Send Message clicking button ->
@@ -197,7 +197,7 @@ $(function(){
         var pdf_link = $(this).attr('href');
         var iframe = '<div class="iframe-container"><iframe src="'+pdf_link+'"></iframe></div>'
         $.createModal({
-            title:'<img id="theImg" src="../img/Logos/LogoBis.png" width="10%" style="float: left;"/><p style="padding-top:15px;"><i class="ion-ribbon-b"></i> <strong>Certification</strong></p>',
+            title:'<img id="theImg" src="../img/Logos/Logo_New.png" width="8%" style="float: left;"/><p style="padding-top:15px;"><i class="ion-ribbon-b"></i> <strong>Certification</strong></p>',
             message: iframe,
             closeButton:true,
             scrollable:false
